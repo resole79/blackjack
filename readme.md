@@ -21,6 +21,11 @@ The game is a comparing card game where each player competes against the dealer.
  - Cards are not removed from the deck as they are drawn.
  
 
+#### Prerequisites
+You will need the following software to run the BlackJack Game:
+ - [Python 3](https://www.python.org/downloads/)
+
+
 #### Installation
 To get started with the BlackJack Game, follow these steps:
 
